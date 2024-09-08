@@ -1,5 +1,3 @@
-console.log("hi");
-
 import {
   Form,
   Links,
